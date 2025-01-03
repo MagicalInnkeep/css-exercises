@@ -1,0 +1,16 @@
+.uneven {
+    background-color: rgb(255, 0, 221);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+#no2 {
+    color: #3798b1;
+    font-size: 36px;
+}
+.no3 {
+    font-size: 24px;
+}
+#no4{
+    background-color: #53b137;
+    font-size: 24px;
+    font-weight: bold;
+}
